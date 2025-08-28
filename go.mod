@@ -1,4 +1,4 @@
-module github.com/lhl1115/goencrypt
+module github.com/liu-houliang/goencrypt
 
 go 1.16
 

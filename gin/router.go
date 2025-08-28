@@ -2,7 +2,7 @@ package gin
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/lhl1115/goencrypt/utils"
+	"github.com/liu-houliang/goencrypt/utils"
 )
 
 func NewRouter() *gin.Engine {

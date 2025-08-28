@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/lhl1115/goencrypt/utils"
+	"github.com/liu-houliang/goencrypt/utils"
 	"github.com/wumansgy/goEncrypt/aes"
 	"strconv"
 	"testing"

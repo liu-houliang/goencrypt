@@ -1,6 +1,6 @@
 package main
 
-import "github.com/lhl1115/goencrypt/gin"
+import "github.com/liu-houliang/goencrypt/gin"
 
 func main() {
 
